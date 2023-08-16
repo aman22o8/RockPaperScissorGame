@@ -37,7 +37,7 @@ class RockPaperScissor extends Component {
     initialSelected: '',
     opponentSelected: '',
     randomMyNumber: 0,
-    score: '0',
+    score: 0,
     isActive: true,
     resultStatus: '',
   }
