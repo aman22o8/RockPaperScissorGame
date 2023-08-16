@@ -8,6 +8,7 @@ import {
   ScoreCardContainer,
   MainHeading,
   ScoreCardValue,
+  ScoreValueFinal,
   Score,
   GameContainer,
 } from './StyledComponent'
@@ -110,7 +111,7 @@ class RockPaperScissor extends Component {
           </MainHeading>
           <ScoreCardValue>
             <Score>Score</Score>
-            <Score>{score}</Score>
+            <ScoreValueFinal>{score}</ScoreValueFinal>
           </ScoreCardValue>
         </ScoreCardContainer>
         {isActive ? (

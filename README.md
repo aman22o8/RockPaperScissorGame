@@ -1,5 +1,7 @@
 In this project, let's build a **Rock Paper Scissors** by applying the concepts we have learned till now.
 
+### Link https://GameForTimePs.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
@@ -94,7 +96,7 @@ The app must have the following functionalities
 - You can use `Math.floor()` function that returns the **largest integer less than or equal to a given number**
 
   ```js
-  console.log(Math.floor(5.95)); // output: 5
+  console.log(Math.floor(5.95)) // output: 5
   ```
 
 </details>
